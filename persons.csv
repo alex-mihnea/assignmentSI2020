@@ -1,0 +1,10 @@
+gender,smile,hair,makeup,glasses,age,name
+female,TRUE,brown,TRUE,FALSE,45,Angelina
+male,FALSE,brown,FALSE,FALSE,56,Brad
+male,FALSE,invisible,FALSE,FALSE,45,DiCaprio
+female,FALSE,blonde,FALSE,FALSE,28,Simona
+male,TRUE,brown,FALSE,FALSE,33,Lionel
+male,FALSE,black,FALSE,FALSE,35,Cristiano
+male,TRUE,brown,FALSE,TRUE,57,Johnny
+male,FALSE,black,FALSE,FALSE,65,Mr.Bean
+female,TRUE,red,TRUE,TRUE,85,Sally
